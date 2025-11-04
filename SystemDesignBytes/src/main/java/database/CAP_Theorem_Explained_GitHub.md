@@ -48,7 +48,7 @@ Now, a user sends a **write** request to Node A and a **read** request to Node B
 
 ---
 
-## ⚙️ Visual Summary
+## ⚙️ Visual Summary (GitHub-Compatible)
 
 ```mermaid
 graph TD
@@ -70,14 +70,6 @@ graph TD
     P --> AP
     C --> CA
     A --> CA
-
-    CP:::cpstyle
-    AP:::apstyle
-    CA:::castyle
-
-    classDef cpstyle fill:#C8E6C9,stroke:#388E3C,stroke-width:2px;
-    classDef apstyle fill:#BBDEFB,stroke:#1976D2,stroke-width:2px;
-    classDef castyle fill:#FFE0B2,stroke:#F57C00,stroke-width:2px;
 ```
 
 ---
